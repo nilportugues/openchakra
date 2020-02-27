@@ -105,12 +105,7 @@ const menuItems: MenuItems = {
   Spinner: {},
   Select: {},
   Slider: {
-    children: {
-      Slider: {},
-      SliderTrack: {},
-      SliderFilledTrack: {},
-      SliderThumb: {},
-    },
+    children: {},
   },
   Stack: {},
   Switch: {},
