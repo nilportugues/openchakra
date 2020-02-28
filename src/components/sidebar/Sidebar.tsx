@@ -98,6 +98,7 @@ const menuItems: MenuItems = {
   NumberInput: {},
   Popover: {
     children: {
+      Popover: {},
       PopoverTrigger: {},
       PopoverContent: {},
       PopoverHeader: {},
